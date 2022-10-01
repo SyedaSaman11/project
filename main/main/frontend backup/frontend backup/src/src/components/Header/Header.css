@@ -1,0 +1,85 @@
+#logo2 {
+  width: 100px;
+  height: 100px;
+}
+
+#logo1 {
+  width: 50px;
+  height: 50px;
+}
+
+#button {
+  margin-left: 10px;
+}
+
+.search-hover {
+
+  border: 1px solid #ccc;
+  outline: none;
+  background-size: 22px;
+  background-position: 23px;
+  border-radius: 10px;
+  width: 250px;
+  height: 50px;
+  padding: 25px;
+  transition: all 600s;
+}
+.search-hover:hover {
+  width: 600px;
+  padding-left: 50px;
+}
+
+#btn1 {
+  background-color: rgb(132, 161, 189);
+
+}
+
+#down {
+  padding-left: 08px;
+}
+
+#Cartbutton {
+  padding-right: 30px;
+  padding-left: 30px;
+  background-color: rgb(132, 161, 189);
+}
+
+#Actionbutton,
+#BtnMenu {
+  padding: opx 1px opx 1px;
+  color:  rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: 18px;
+  opacity: 0.8;
+  background-color: black;
+  margin-left: 0px;
+}
+#BtnSearch {
+  font-weight: bold;
+}
+
+#Nav {
+   background-color: rgb(212, 223, 58);
+   background-image:  url("../../assets/nav2.jpg") ;
+   background-repeat: repeat-x;
+  
+  padding: 0%;
+}
+
+#ImgCart {
+  border-width: 2px;
+}
+
+#d1{
+  margin-left: -60px;
+}
+/* 
+h1 {
+  text-align: center;
+  color: rgb(24, 7, 56);
+  letter-spacing: 2px;
+  font-style: oblique;
+  font-family: cursive;
+  font-weight: bold;
+  font-stretch: wider;
+} */

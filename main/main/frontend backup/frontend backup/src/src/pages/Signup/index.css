@@ -1,0 +1,17 @@
+#container,#signupForm {
+  background-color: transparent;
+}
+#exampleInput {
+  width: 100%;
+}
+
+.img {
+  width: 650px;
+  height: 700px;
+}
+
+#bg-image-signup {
+  background-image: url("../../assets/registration.png");
+  background-repeat: no-repeat;
+  height: auto;
+}

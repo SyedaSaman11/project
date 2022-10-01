@@ -1,0 +1,30 @@
+#Footer {
+  background-color:rgb(41, 41, 41);
+  height: 90%;
+  color: rgb(228, 222, 222);
+  text-align: center;
+ 
+}
+
+
+#aboutUsContent,#contactUsContent,#connectUs{
+  opacity: 0.7;
+  color: rgb(228, 222, 222);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#BottomArrow,#BottomArrow2{
+  color: rgb(36, 59, 78);
+  background-color: antiquewhite;
+}
+
+#UpArrow{
+  height:40px;
+  width: 60px;
+}
+
+#InstaLogo,#FacebookLogo,#TwitterLogo,#LinkedinLogo{
+  height:40px;
+  width: 40px;
+}

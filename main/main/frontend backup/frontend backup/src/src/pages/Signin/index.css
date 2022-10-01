@@ -1,0 +1,22 @@
+#container {
+  background-color: rgba(150, 205, 226, 0.747);
+}
+#exampleInputPassword1,
+#exampleInputEmail1,
+#passwordHelpBlock {
+  width: 100%;
+}
+
+/* #BtnSignIn{
+    text-align: center;
+} */
+
+
+#MainDiv{
+  background-color: rgb(134, 102, 56);
+  height: 500px;
+}
+#row{
+  height: 1000px;
+  width: auto;
+}

@@ -1,0 +1,48 @@
+
+#pimage{
+    
+    min-height: 200px;
+    min-width: 200px;
+    max-width: 200px;
+    max-height: 200px;
+    padding-left: 50px;
+    transform: translate(0, -1.5rem);
+    transition: transform 500ms ease-in-out;
+    filter: drop-shadow(5px 10px 15px rgba(8, 9, 13, 0.4));
+}
+
+
+.card-title{
+
+  font-weight: bold;
+  color: azure;
+  text-align: center;
+  font-size: xx-large;
+  
+  
+}
+
+#details{
+  background-color: black;
+  min-height: 30px;
+  max-height: 30px;
+  
+}
+#otherli {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  
+  max-height: 35px;
+}
+
+#description{
+  max-height: 100px;
+  min-height: 100px;
+}
+._1xHGtK ._3bPFwb {
+  display: block;
+  padding: 0 10px 0 0;
+  margin: 3px 0;
+}
+

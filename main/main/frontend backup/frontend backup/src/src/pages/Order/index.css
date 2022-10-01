@@ -1,0 +1,19 @@
+#OrderHeaderDiv2{
+    background-color: rgb(206, 215, 198);
+}
+
+#OrderDiv2{
+    text-align: center;
+}
+
+#OrderTitleDiv{
+    font-size: larger;
+    font-weight: 500;
+}
+
+#OrderPageFooterDiv{
+    background-color: beige;
+    border-style: groove;
+    font-weight: 400;
+    font-size: large;
+}

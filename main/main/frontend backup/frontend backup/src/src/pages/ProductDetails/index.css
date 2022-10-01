@@ -1,0 +1,23 @@
+#star{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.on{
+    color: darkcyan;
+
+}
+.off{
+    color: #ccc;
+}
+#stars{
+
+    padding-left: 87.7%;
+
+}
+#rating{
+    padding-left: 88.3%;
+    color: grey;
+}

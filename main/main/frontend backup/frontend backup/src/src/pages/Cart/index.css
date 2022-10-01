@@ -1,0 +1,29 @@
+#CartPageMainDiv {
+  background-color: rgb(217, 247, 209);
+  border-radius: 3px;
+  border-style: groove;
+
+}
+
+#CartTitle {
+  color: chocolate;
+  font-weight: 600;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#CartTableHeadingDiv {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+#CartFooterFont{
+  color: rgb(49, 146, 243);
+  font-weight: 600;
+  font-size: 30px;
+}
+
+#CartFooterDiv{
+  background-color: beige;
+  border-style: groove;
+}
